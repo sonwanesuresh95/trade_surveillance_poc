@@ -1,0 +1,9 @@
+timestamp,order_id,trader_id,symbol,side,price,quantity,status
+2024-06-03 10:00:00,1,TR123,AAPL,buy,185.0,100,placed
+2024-06-03 10:00:01,2,TR123,AAPL,buy,185.0,100,canceled
+2024-06-03 10:00:02,3,TR123,AAPL,buy,185.1,200,placed
+2024-06-03 10:00:03,4,TR123,AAPL,buy,185.1,200,canceled
+2024-06-03 10:00:04,5,TR123,AAPL,buy,185.2,300,placed
+2024-06-03 10:00:05,6,TR123,AAPL,buy,185.2,300,canceled
+2024-06-03 10:00:06,7,TR999,GOOG,sell,2500.0,50,placed
+2024-06-03 10:00:07,8,TR999,GOOG,sell,2500.0,50,executed
